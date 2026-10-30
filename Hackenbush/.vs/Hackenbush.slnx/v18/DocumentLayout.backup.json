@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\hackenbush\\hackenbush\\alphabetasolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|solutionrelative:hackenbush\\alphabetasolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\hackenbush\\hackenbush\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|solutionrelative:hackenbush\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\hackenbush\\hackenbush\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|solutionrelative:hackenbush\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\hackenbush\\hackenbush\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|solutionrelative:hackenbush\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\hackenbush\\hackenbush\\gamepreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|solutionrelative:hackenbush\\gamepreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\hackenbush\\hackenbush\\presetlevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|solutionrelative:hackenbush\\presetlevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\hackenbush\\hackenbush\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{6F1EA61C-B41D-81EE-92DF-E4B04264F553}|Hackenbush\\Hackenbush.csproj|solutionrelative:hackenbush\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Hackenbush\\MainWindow.axaml",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\MainWindow.axaml",
+              "RelativeToolTip": "Hackenbush\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-20T14:29:46.44Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Hackenbush\\MainWindow.axaml.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Hackenbush\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAANoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:29:45.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\Edge.cs",
+              "RelativeDocumentMoniker": "Hackenbush\\Edge.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\Edge.cs",
+              "RelativeToolTip": "Hackenbush\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:23:39.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\GameState.cs",
+              "RelativeDocumentMoniker": "Hackenbush\\GameState.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\GameState.cs",
+              "RelativeToolTip": "Hackenbush\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:25:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamePreset.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\GamePreset.cs",
+              "RelativeDocumentMoniker": "Hackenbush\\GamePreset.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\GamePreset.cs",
+              "RelativeToolTip": "Hackenbush\\GamePreset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T20:29:54.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PresetLevels.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\PresetLevels.cs",
+              "RelativeDocumentMoniker": "Hackenbush\\PresetLevels.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\PresetLevels.cs",
+              "RelativeToolTip": "Hackenbush\\PresetLevels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T20:41:24.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlphaBetaSolver.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\AlphaBetaSolver.cs",
+              "RelativeDocumentMoniker": "Hackenbush\\AlphaBetaSolver.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\Hackenbush\\Hackenbush\\AlphaBetaSolver.cs",
+              "RelativeToolTip": "Hackenbush\\AlphaBetaSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T20:57:27.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

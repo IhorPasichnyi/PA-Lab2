@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\eightqueens\\eightqueens\\bfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|solutionrelative:eightqueens\\bfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\eightqueens\\eightqueens\\rbfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|solutionrelative:eightqueens\\rbfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\eightqueens\\eightqueens\\heuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|solutionrelative:eightqueens\\heuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\eightqueens\\eightqueens\\experimentrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|solutionrelative:eightqueens\\experimentrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\eightqueens\\eightqueens\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|solutionrelative:eightqueens\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\eightqueens\\eightqueens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|solutionrelative:eightqueens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|d:\\university\\3 semester\\pa\\lab 2\\programs\\eightqueens\\eightqueens\\boardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A2689-57A6-C055-861B-C4F494048D80}|EightQueens\\EightQueens.csproj|solutionrelative:eightqueens\\boardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\Program.cs",
+              "RelativeDocumentMoniker": "EightQueens\\Program.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\Program.cs",
+              "RelativeToolTip": "EightQueens\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T19:23:04.577Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardState.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\BoardState.cs",
+              "RelativeDocumentMoniker": "EightQueens\\BoardState.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\BoardState.cs",
+              "RelativeToolTip": "EightQueens\\BoardState.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wFoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T19:34:21.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heuristics.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\Heuristics.cs",
+              "RelativeDocumentMoniker": "EightQueens\\Heuristics.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\Heuristics.cs",
+              "RelativeToolTip": "EightQueens\\Heuristics.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:14:16.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\SearchResult.cs",
+              "RelativeDocumentMoniker": "EightQueens\\SearchResult.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\SearchResult.cs",
+              "RelativeToolTip": "EightQueens\\SearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:28:06.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BfsSolver.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\BfsSolver.cs",
+              "RelativeDocumentMoniker": "EightQueens\\BfsSolver.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\BfsSolver.cs",
+              "RelativeToolTip": "EightQueens\\BfsSolver.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwFgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:28:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RbfsSolver.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\RbfsSolver.cs",
+              "RelativeDocumentMoniker": "EightQueens\\RbfsSolver.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\RbfsSolver.cs",
+              "RelativeToolTip": "EightQueens\\RbfsSolver.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwHIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:16:34.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExperimentRunner.cs",
+              "DocumentMoniker": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\ExperimentRunner.cs",
+              "RelativeDocumentMoniker": "EightQueens\\ExperimentRunner.cs",
+              "ToolTip": "D:\\University\\3 Semester\\PA\\Lab 2\\Programs\\EightQueens\\EightQueens\\ExperimentRunner.cs",
+              "RelativeToolTip": "EightQueens\\ExperimentRunner.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:52:32.99Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
